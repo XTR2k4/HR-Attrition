@@ -8,7 +8,9 @@ An interactive Excel dashboard to explore, analyze, and visualize employee attri
 
 The primary goal of this project is to analyze employee attrition data to uncover patterns and potential causes of attrition within the organization. The dashboard enables data-driven decision-making by highlighting insights across various HR dimensions such as job role, education, job satisfaction, gender, age group, and more.
 
+---
 
+![Attrition_dashboard](https://github.com/user-attachments/assets/fba53146-7501-471f-a70d-a3f3ee7800e2)
 
 ---
 
